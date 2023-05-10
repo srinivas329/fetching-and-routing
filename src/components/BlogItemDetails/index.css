@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.item-card {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  justify-content: center;
+}
+.avatar-pic {
+  width: 35px;
+  height: 35px;
+  border-radius: 17px;
+  margin-right: 15px;
+}
+.avatar-content {
+  display: flex;
+  align-items: center;
+}
+.card-pc {
+  border-radius: 10px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 10px;
+}
+.content {
+  color: #8e8e8e;
+}

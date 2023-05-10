@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.main-card {
+  width: 230px;
+  height: 150px;
+  margin-right: 20px;
+}
+.list-item {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+.avatar {
+  width: 35px;
+  height: 35px;
+  border-radius: 17px;
+  margin-right: 15px;
+}
+.avatar-author {
+  display: flex;
+  align-items: center;
+}
+.data-container {
+  align-self: flex-start;
+}
+
+.title-text {
+  margin: 0px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.topic-text {
+  margin-top: 0px;
+}
+.link-list1 {
+  text-decoration: none;
+  border: 1px solid lightgray;
+  padding: 10px;
+  margin-right: 10px;
+}
+.link-list {
+  text-decoration: none;
+  color: black;
+}
